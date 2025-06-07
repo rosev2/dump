@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="MIT"
+[[mods]]
+modId="examplemod"
+version="1.0.0"
+displayName="Example Mod"
+description='''A simple mod for Minecraft 1.21.5.'''
